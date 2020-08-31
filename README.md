@@ -1,0 +1,3 @@
+Example codes and experiments around natural language processing using TensorFlow, Numpy, Pandas,...
+
+- Word2Vec: Word2vec is a technique for natural language processing to efficiently create word embeddings. The word2vec algorithm uses a neural network model to learn word associations from a large corpus of text. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence.
